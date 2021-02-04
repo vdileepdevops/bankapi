@@ -1,0 +1,3 @@
+C:\Users\Administrator\Desktop\test\Finsta_Banking_API\FinstaGenericInfrastructure\bin\Debug\netcoreapp2.1\publish\Finsta_Banking_Infrastructure.dll
+C:\Users\Administrator\Desktop\test\Finsta_Banking_API\FinstaGenericInfrastructure\bin\Debug\netcoreapp2.1\publish\Finsta_Banking_Infrastructure.deps.json
+C:\Users\Administrator\Desktop\test\Finsta_Banking_API\FinstaGenericInfrastructure\bin\Debug\netcoreapp2.1\publish\Finsta_Banking_Infrastructure.pdb

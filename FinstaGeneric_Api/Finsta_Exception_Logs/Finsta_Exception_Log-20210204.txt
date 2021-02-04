@@ -1,0 +1,10 @@
+2021-02-04 07:36:04.255 +00:00 [Information] Application starting
+2021-02-04 07:36:07.962 +00:00 [Information] Request starting HTTP/1.1 DEBUG http://localhost:49639/  0
+2021-02-04 07:36:07.962 +00:00 [Information] Request starting HTTP/1.1 GET http://localhost:49639/api/values  
+2021-02-04 07:36:08.034 +00:00 [Information] Request finished in 80.6946ms 200 
+2021-02-04 07:36:08.652 +00:00 [Information] Request finished in 698.4049ms 404 
+2021-02-04 07:37:18.163 +00:00 [Information] Application starting
+2021-02-04 07:37:20.155 +00:00 [Information] Request starting HTTP/1.1 DEBUG http://localhost:49639/  0
+2021-02-04 07:37:20.155 +00:00 [Information] Request starting HTTP/1.1 GET http://localhost:49639/api/values  
+2021-02-04 07:37:20.197 +00:00 [Information] Request finished in 50.7009ms 200 
+2021-02-04 07:37:20.684 +00:00 [Information] Request finished in 538.1382ms 404 

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "FCfpoJL7O5VRYCbI5EPOGd2wTqnXJM1VKB5sNW83Kvq1WoGuQrpavB/6HK+yoMHSjfQ1iSfIY4jlJqdqEw1JIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\test\\Finsta_Banking_API\\FinstaGenericInfrastructure\\Finsta_Banking_Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Windows\\system32\\config\\systemprofile\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Windows\\system32\\config\\systemprofile\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Windows\\system32\\config\\systemprofile\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Windows\\system32\\config\\systemprofile\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Windows\\system32\\config\\systemprofile\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Windows\\system32\\config\\systemprofile\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Windows\\system32\\config\\systemprofile\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

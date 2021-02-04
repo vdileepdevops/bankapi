@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\test\Finsta_Banking_API\FinstaGenericRepository\bin\Debug\netcoreapp2.1\publish\Finsta_Banking_Repository.dll
+C:\Users\Administrator\Desktop\test\Finsta_Banking_API\FinstaGenericRepository\bin\Debug\netcoreapp2.1\publish\Finsta_Banking_Repository.deps.json
+C:\Users\Administrator\Desktop\test\Finsta_Banking_API\FinstaGenericRepository\bin\Debug\netcoreapp2.1\publish\Finsta_Banking_Repository.pdb
+C:\Users\Administrator\Desktop\test\Finsta_Banking_API\FinstaGenericRepository\bin\Debug\netcoreapp2.1\publish\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\test\Finsta_Banking_API\FinstaGenericRepository\bin\Debug\netcoreapp2.1\publish\System.Data.DataSetExtensions.dll
+C:\Users\Administrator\Desktop\test\Finsta_Banking_API\FinstaGenericRepository\bin\Debug\netcoreapp2.1\publish\System.Security.AccessControl.dll
+C:\Users\Administrator\Desktop\test\Finsta_Banking_API\FinstaGenericRepository\bin\Debug\netcoreapp2.1\publish\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\test\Finsta_Banking_API\FinstaGenericRepository\bin\Debug\netcoreapp2.1\publish\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\test\Finsta_Banking_API\FinstaGenericRepository\bin\Debug\netcoreapp2.1\publish\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\test\Finsta_Banking_API\FinstaGenericRepository\bin\Debug\netcoreapp2.1\publish\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Administrator\Desktop\test\Finsta_Banking_API\FinstaGenericRepository\bin\Debug\netcoreapp2.1\publish\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\test\Finsta_Banking_API\FinstaGenericRepository\bin\Debug\netcoreapp2.1\publish\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\test\Finsta_Banking_API\FinstaGenericRepository\bin\Debug\netcoreapp2.1\publish\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\test\Finsta_Banking_API\FinstaGenericRepository\bin\Debug\netcoreapp2.1\publish\Finsta_Banking_Infrastructure.dll
+C:\Users\Administrator\Desktop\test\Finsta_Banking_API\FinstaGenericRepository\bin\Debug\netcoreapp2.1\publish\Mono.Security.dll
+C:\Users\Administrator\Desktop\test\Finsta_Banking_API\FinstaGenericRepository\bin\Debug\netcoreapp2.1\publish\Npgsql.dll
+C:\Users\Administrator\Desktop\test\Finsta_Banking_API\FinstaGenericRepository\bin\Debug\netcoreapp2.1\publish\Finsta_Banking_Infrastructure.pdb
